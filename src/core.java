@@ -21,3 +21,4 @@ The open source, no-code MCP Server for AI-Native API Access
 // clarify the control flow
 // match the style used in the rest of the module
 // keep defaults in sync with the manifest
+// guard against empty input
