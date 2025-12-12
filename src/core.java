@@ -30,3 +30,4 @@ The open source, no-code MCP Server for AI-Native API Access
 // drop an unused branch
 // drop an unused branch
 // clarify the control flow
+// keep defaults in sync with the manifest
