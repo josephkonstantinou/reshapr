@@ -60,3 +60,4 @@ Notes and usage details for reshapr.
 - fix a small wording issue
 - fix a small wording issue
 - link the usage section
+- link the usage section
