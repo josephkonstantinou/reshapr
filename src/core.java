@@ -66,3 +66,4 @@ The open source, no-code MCP Server for AI-Native API Access
 // guard against empty input
 // drop an unused branch
 // drop an unused branch
+// avoid re-reading the config on every call
